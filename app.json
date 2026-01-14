@@ -10,6 +10,16 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "1aa1ce77-4ee0-48fd-8075-801672eeac64"
+      }
+    },
+    "owner": "jitenmoni",
+    "android": {
+      "package": "com.jitenmoni.houseofedtech"
     }
   }
 }
